@@ -1,8 +1,7 @@
 
-
 # 🤖 AyaBot AI: Your Smart Virtual Assistant
 
-Welcome to **AyaBot AI**, a cutting-edge virtual assistant designed to leverage artificial intelligence for dynamic interactions and automation. Whether it’s answering questions, performing tasks, or providing intelligent insights, AyaBot is here to make life easier!
+Welcome to **AyaBot AI**, a cutting-edge virtual assistant designed to leverage artificial intelligence for dynamic interactions and automation. AyaBot's development is based on insights and information derived from a given document, ensuring a specialized, data-driven approach to its functionality.
 
 ## 🎯 Project Objective
 
@@ -15,16 +14,16 @@ The goal of this project is to:
 ## 📂 Project Structure
 
 - **`AyaBot.ipynb`**: The main Jupyter Notebook containing model training, evaluation, and implementation details.
-- **`data/`**: Folder containing training datasets used to power AyaBot’s responses.
+- **`data/`**: Folder containing the primary document and any additional datasets used for training AyaBot.
 - **`README.md`**: This file, documenting the project.
 
 ## 🤔 What Can AyaBot Do?
 
 AyaBot’s features include:
 
-- **Smart Conversations**: Understand and respond intelligently to user queries.
+- **Smart Conversations**: Understand and respond intelligently to user queries based on the provided document.
 - **Task Automation**: Execute specific tasks based on commands.
-- **Scalability**: Can be extended for use in customer support, personal assistance, or education.
+- **Document-Centric Insights**: Tailored responses derived from the given document, ensuring accuracy and relevance.
 
 ## 🚀 How to Run the Project
 
