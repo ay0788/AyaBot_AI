@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Chatbot_icon.svg" alt="AyaBot Logo" width="150">
-</p>
+
 
 # 🤖 AyaBot AI: Your Smart Virtual Assistant
 
